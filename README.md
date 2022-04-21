@@ -1,8 +1,10 @@
 # Tjay-Discord-Cloner-2
 
 Discord Server Cloner | JavaScript | Without Permissions | Only with the server ID
-
-Username: tjay ---------------- Password: tjay-cloner-v2
+```
+Username: tjay 
+Password: tjay-cloner-v2
+```
 
 PREVIEW:
 
